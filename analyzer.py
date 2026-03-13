@@ -37,4 +37,5 @@ for loop in loops:
         print("Loop may be parallelized")
         print("Suggested directive: #pragma omp parallel for\n")
 
+
     loop_number += 1
